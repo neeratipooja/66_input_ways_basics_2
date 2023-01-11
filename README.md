@@ -1,0 +1,1 @@
+# 66_input_ways_basics_2
